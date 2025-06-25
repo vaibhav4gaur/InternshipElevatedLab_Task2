@@ -30,7 +30,7 @@
 
 ## **📈Identify patterns , anomalies and trends in the data**
 - Improves Data Quality
-- racking Changes Over Time
+- Tracking Changes Over Time
 - Predictive Modeling
 <img width="1259" alt="Screenshot 2025-06-25 at 15 46 52" src="https://github.com/user-attachments/assets/85999962-e11a-4c8c-b28a-916815dd2b82" />
 
